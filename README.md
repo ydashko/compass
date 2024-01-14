@@ -16,4 +16,4 @@ The Bakery landinding page was created using the following technologies:
 ## Preview Link
 
 [DEMO LINK]()
-extra info site
+implemeneted basic web version of site
