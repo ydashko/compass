@@ -1,4 +1,4 @@
-# Compass landing page with Gulp, SCSS and Stylelint ip
+# Compass landing page with Gulp, SCSS and Stylelint 
 
 ## Project Description
 
